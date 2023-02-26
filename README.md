@@ -1,7 +1,7 @@
 Game
 -Pac Man
 
-How to Play
+**How to Play
 
 -one bean worth for 10 points
 
