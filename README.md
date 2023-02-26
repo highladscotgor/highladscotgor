@@ -2,7 +2,9 @@ Game
 -Pac Man
 
 How to Play
+
 -one bean worth for 10 points
+
 -There are 400 beans in total in each game and are evenly distributed 
 -When a ghost catches a eaters,all players will respawn at a fixed point
 -The fixed point for eaters to reborn is at the upper left corner,
